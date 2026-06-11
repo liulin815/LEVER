@@ -1,1 +1,4 @@
-
+# get nuscenes_fs data
+'''
+run python get_nus_fs.py
+'''
